@@ -10,7 +10,7 @@ Download the latest version from the releases tab.
 
 ### Build from source
 
-Please clone the repo with `--recursive` git flag to include [cutils](https://github.com/Fossbay/easymake/tree/dev/include) (avoid updating gitmodules, other commits may or may not work). After cloning the repo, please follow [COMPILING_EASYMAKE](https://github.com/Fossbay/easymake/blob/main/COMPILING_EASYMAKE.md) instructions.
+Please clone the repo with `--recursive` git flag to include [cutils](https://github.com/Fossbay/cutils/tree/outdated) (avoid updating gitmodules, other commits may not work). After cloning the repo, please follow [COMPILING_EASYMAKE](https://github.com/Fossbay/easymake/blob/main/COMPILING_EASYMAKE.md) instructions.
 
 ## Usage
 
